@@ -1,4 +1,4 @@
-package org.example
+package org.example.BinarySearch
 
 fun binarySearch(arr: IntArray, target: Int): Int {
     var left = 0

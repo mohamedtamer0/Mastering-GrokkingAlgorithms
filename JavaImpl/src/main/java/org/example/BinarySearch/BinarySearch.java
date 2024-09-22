@@ -1,4 +1,4 @@
-package org.example;
+package org.example.BinarySearch;
 
 public class BinarySearch {
 
