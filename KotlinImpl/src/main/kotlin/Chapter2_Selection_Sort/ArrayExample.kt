@@ -1,4 +1,4 @@
-package Chapter2
+package Chapter2_Selection_Sort
 
 fun main() {
     // Creating an array

@@ -1,4 +1,4 @@
-package org.example.Chapter2;
+package org.example.Chapter2_Selection_Sort;
 
 public class SelectionSort {
     public static void selectionSort(int[] arr) {
