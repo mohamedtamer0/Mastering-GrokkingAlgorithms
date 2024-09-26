@@ -34,6 +34,6 @@ fun main() {
     val arr = intArrayOf(10, 7, 8, 9, 1, 5)
     quickSort(arr, 0, arr.size - 1)
 
-    println("المصفوفة بعد الترتيب:")
+    println("المصفوفة بعد الترتيب : ")
     arr.forEach { print("$it ") }
 }

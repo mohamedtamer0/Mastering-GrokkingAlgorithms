@@ -46,7 +46,7 @@ public class QuickSort {
 
         quickSort(arr, 0, n - 1);
 
-        System.out.println("المصفوفة بعد الترتيب:");
+        System.out.println("المصفوفة بعد الترتيب : ");
         for (int num : arr) {
             System.out.print(num + " ");
         }
